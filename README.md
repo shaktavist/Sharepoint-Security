@@ -1,5 +1,4 @@
 <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:12.0pt;line-height:107%;'>How do you protect your data in Sharepoint? &nbsp;What are the controls that Microsoft make available to you?</p>
-<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:12.0pt;line-height:107%;'>Below tabe can be served as a checklist to help you go through some of the options.</p>
 <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:8.0pt;line-height:107%;'>&nbsp;</p>
 <table style="border-collapse:collapse;border:none;">
     <tbody>
@@ -33,7 +32,7 @@
                 <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:0in;line-height:normal;'>Enforce two-factor authentication for your identities in Microsoft 365.</p>
             </td>
             <td style="width: 236.65pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 0.2in;vertical-align: top;">
-                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:0in;line-height:normal;'>&nbsp;</p>
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:0in;line-height:normal;'>&nbsp;https://docs.microsoft.com/en-us/office365/admin/security-and-compliance/set-up-multi-factor-authentication</p>
             </td>
         </tr>
         <tr>
@@ -121,7 +120,7 @@
                 <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:0in;line-height:normal;'>Limit sync to devices on the domains you specify</p>
             </td>
             <td style="width: 236.65pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 0.2in;vertical-align: top;">
-                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:0in;line-height:normal;'><u><a href="https://docs.microsoft.com/en-us/onedrive/allow-syncing-only-on-specific-domains">https://docs.microsoft.com/en-us/onedrive/allow-syncing-only-on-specific-domains</a></u></p>
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:0in;line-height:normal;'><a href="https://docs.microsoft.com/en-us/onedrive/allow-syncing-only-on-specific-domains">https://docs.microsoft.com/en-us/onedrive/allow-syncing-only-on-specific-domains</a></p>
             </td>
         </tr>
         <tr>
@@ -129,7 +128,7 @@
                 <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:0in;line-height:normal;'>Use Intune to limit access to content in the OneDrive and SharePoint mobile apps</p>
             </td>
             <td style="width: 236.65pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 0.2in;vertical-align: top;">
-                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:0in;line-height:normal;'><u><a href="https://docs.microsoft.com/en-us/onedrive/control-access-to-mobile-app-features">https://docs.microsoft.com/en-us/onedrive/control-access-to-mobile-app-features</a></u></p>
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:0in;line-height:normal;'><a href="https://docs.microsoft.com/en-us/onedrive/control-access-to-mobile-app-features">https://docs.microsoft.com/en-us/onedrive/control-access-to-mobile-app-features</a></p>
             </td>
         </tr>
         <tr>
@@ -159,7 +158,7 @@
                 <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:0in;line-height:normal;'>Data is mirrored in at least two datacenters to mitigate the impact of a natural disaster or service-impacting outage.</p>
             </td>
             <td style="width: 236.65pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 0.4in;vertical-align: top;">
-                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:0in;line-height:normal;'><u><a href="https://o365datacentermap.azurewebsites.net/">https://o365datacentermap.azurewebsites.net/</a></u></p>
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:0in;line-height:normal;'><a href="https://o365datacentermap.azurewebsites.net/">https://o365datacentermap.azurewebsites.net/</a></p>
             </td>
         </tr>
         <tr>
@@ -178,7 +177,7 @@
                 <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:0in;line-height:normal;'>Use Version history to roll back</p>
             </td>
             <td style="width: 236.65pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 0.4in;vertical-align: top;">
-                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:0in;line-height:normal;'><u><a href="https://support.office.com/article/1555d642-23ee-446a-990a-bcab618c7a37">https://support.office.com/article/1555d642-23ee-446a-990a-bcab618c7a37</a></u></p>
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:0in;line-height:normal;'><a href="https://support.office.com/article/1555d642-23ee-446a-990a-bcab618c7a37">https://support.office.com/article/1555d642-23ee-446a-990a-bcab618c7a37</a></p>
             </td>
         </tr>
         <tr>
@@ -213,7 +212,7 @@
                 <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:0in;line-height:normal;'>Use Azure Active Directory identity protection. Ie block sign ins</p>
             </td>
             <td style="width: 236.65pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 0.2in;vertical-align: top;">
-                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:0in;line-height:normal;'><u><a href="https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview">https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview</a></u></p>
+                <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:0in;line-height:normal;'><a href="https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview">https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview</a></p>
             </td>
         </tr>
         <tr>
