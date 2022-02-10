@@ -1,4 +1,5 @@
 <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:12.0pt;line-height:107%;'>How do you protect your data in Sharepoint? &nbsp;What are the controls that Microsoft make available to you?</p>
+<p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:12.0pt;line-height:107%;'>The below table can serve as a checklist to help you enable some of the controls available.</p>
 <p style='margin-right:0in;margin-left:0in;font-size:15px;font-family:"Calibri",sans-serif;margin-top:0in;margin-bottom:8.0pt;line-height:107%;'>&nbsp;</p>
 <table style="border-collapse:collapse;border:none;">
     <tbody>
